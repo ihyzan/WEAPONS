@@ -1,0 +1,1 @@
+AddTextEntry("WEAPON_AR15TCP", "WEAPON_AR15TCP")
