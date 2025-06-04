@@ -3,14 +3,14 @@
 <CWeaponModelInfo__InitDataList>
 	<InitDatas>
 		<Item>
-			<modelName>w_ar_arfulan_mag1</modelName>
-			<txdName>w_ar_arfulan_mag1</txdName>
+                    <modelName>w_ar_specialcarbinemk2raio_mag1</modelName>
+                    <txdName>w_ar_specialcarbinemk2raio_mag1</txdName>
 			<ptfxAssetName>NULL</ptfxAssetName>
 			<lodDist value="300"/>
 		</Item>
 		<Item>
-			<modelName>w_ar_arfulan</modelName>
-			<txdName>w_ar_arfulan</txdName>
+                    <modelName>w_ar_specialcarbinemk2raio</modelName>
+                    <txdName>w_ar_specialcarbinemk2raio</txdName>
 			<ptfxAssetName>NULL</ptfxAssetName>
 			<lodDist value="500"/>
 		</Item>
